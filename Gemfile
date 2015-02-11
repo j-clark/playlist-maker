@@ -6,6 +6,8 @@ gem 'pg'
 gem 'sass-rails', '~> 5.0'
 gem 'jquery-rails'
 
+gem 'devise'
+
 group :development, :test do
   gem 'byebug'
   gem 'web-console', '~> 2.0'
